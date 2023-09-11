@@ -1,1 +1,33 @@
 https://www.postermywall.com/index.php/email/template/f9529ec407dc85c2ad448777aeecfc20/sale-email-template-shop-makeup-best-sellers-for-small-business
+
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                                        <tr>
+                                            <td align="center" style="font-family: 'Open sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; line-height: 20px; color: #FFFFFF">
+                                                <img src="img/logo.png" alt="Sally's cosmetics logo image" width="145" height="auto" border="0" style="max-width: 145px; width: 100%; height: auto; background-color: #FDBFCC;
+                                                color: #FFFFFF; font-family: 'Open sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; line-height: 20px;">
+                                                <h1 style="font-size: 40px; font-weight: bold; line-height: 40px; color: #D12673;">
+                                                    THE SECRET TO <br />
+                                                    A FLAWLESS LOOK
+                                                </h1>
+                                                <p style="max-width: 450px; font-size: 12px; line-height: 14px;">
+                                                    Complete your look with our collection of high-quality products, designed to make you look fierce and flawless all day long, 
+                                                    so you look as gorgeous on the outside as you feel on the inside.
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-top: 10px; padding-bottom: 10px;">
+                                                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="margin: auto;">
+                                                    <tr>
+                                                        <td style="border-radius: 10px; background-color: #D12673;">
+                                                            <a href="#" style="font-family: 'Open sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; font-weight: light; text-transform: uppercase; line-height: 20px; 
+                                                            background-color: #D12673; color: #FFFFFF; border-radius: 10px; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px;">
+                                                                SHOP NOW
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
